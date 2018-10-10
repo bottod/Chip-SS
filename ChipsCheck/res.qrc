@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file alias="BG">Src/BG.png</file>
+        <file alias="Back">Src/Back.png</file>
+        <file alias="WinIco">Src/icon.ico</file>
+    </qresource>
+</RCC>

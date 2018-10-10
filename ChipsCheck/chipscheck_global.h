@@ -1,0 +1,12 @@
+#ifndef CHIPSCHECK_GLOBAL_H
+#define CHIPSCHECK_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(CHIPSCHECK_LIBRARY)
+#  define CHIPSCHECKSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define CHIPSCHECKSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // CHIPSCHECK_GLOBAL_H

@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/res">
+        <file alias="IC_NORMAL">Source/Chips/IC_NORMAL.png</file>
+        <file alias="Add_Normal">Source/BG_Image/add.png</file>
+        <file alias="Del_Normal">Source/BG_Image/del.png</file>
+        <file alias="Add_Pressed">Source/BG_Image/add_pressed.png</file>
+        <file alias="Del_Pressed">Source/BG_Image/del_pressed.png</file>
+        <file alias="BG">Source/BG_Image/BG.png</file>
+    </qresource>
+    <qresource prefix="/Ico">
+        <file alias="WinIco">Source/Ico/icon.ico</file>
+    </qresource>
+    <qresource prefix="/BG_Image">
+        <file alias="NoNet">Source/BG_Image/NoNet.png</file>
+    </qresource>
+</RCC>
